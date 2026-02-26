@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://github.com/curkanbob-hub/portfolio/sitemap.xml
+Sitemap: https://curkanbob-hub.github.io/portfolio/sitemap.xml
